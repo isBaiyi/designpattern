@@ -26,6 +26,27 @@
             <artifactId>logback-core</artifactId>
             <version>1.2.11</version>
         </dependency>
+
+        <!-- ASM -->
+        <dependency>
+            <groupId>org.ow2.asm</groupId>
+            <artifactId>asm-debug-all</artifactId>
+            <version>5.0.2</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.8.1</version>
+            <scope>test</scope>
+        </dependency>
+
+        <!--引入 tomcat 是为了查看 过滤器链 FilterChain -->
+        <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>tomcat-catalina</artifactId>
+            <version>8.5.51</version>
+        </dependency>
     </dependencies>
 
 
