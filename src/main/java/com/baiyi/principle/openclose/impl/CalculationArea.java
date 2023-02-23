@@ -1,6 +1,6 @@
-package com.baiyi.principle.openclose.before.impl;
+package com.baiyi.principle.openclose.impl;
 
-import com.baiyi.principle.openclose.before.ICalculationArea;
+import com.baiyi.principle.openclose.ICalculationArea;
 
 /**
  * @description: 面积计算实现

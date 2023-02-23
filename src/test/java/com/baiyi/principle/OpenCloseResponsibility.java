@@ -1,8 +1,8 @@
 package com.baiyi.principle;
 
-import com.baiyi.principle.openclose.before.ICalculationArea;
-import com.baiyi.principle.openclose.before.impl.CalculationArea;
-import com.baiyi.principle.openclose.before.impl.CalculationAreaExt;
+import com.baiyi.principle.openclose.ICalculationArea;
+import com.baiyi.principle.openclose.impl.CalculationArea;
+import com.baiyi.principle.openclose.impl.CalculationAreaExt;
 import org.junit.jupiter.api.Test;
 
 /**

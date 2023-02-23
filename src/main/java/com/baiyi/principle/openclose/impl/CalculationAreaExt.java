@@ -1,4 +1,4 @@
-package com.baiyi.principle.openclose.before.impl;
+package com.baiyi.principle.openclose.impl;
 
 /**
  * @description: 扩展继承，实现自己的需求

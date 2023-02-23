@@ -1,4 +1,4 @@
-package com.baiyi.principle.openclose.before;
+package com.baiyi.principle.openclose;
 
 /**
  * @description: 面积计算接口
